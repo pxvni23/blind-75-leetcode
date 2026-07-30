@@ -28,17 +28,17 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Dynamic Programming
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break](https://leetcode.com/problems/word-break/)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ---
 
@@ -110,8 +110,3 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 ---
-
-### **How to Use**
-1. Fork this repository.
-2. Tick off problems as you solve them by replacing `[ ]` with `[x]`.
-3. Happy coding! 🎉
